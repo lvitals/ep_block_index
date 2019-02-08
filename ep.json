@@ -1,0 +1,12 @@
+{
+	"parts": [
+	{
+		"name": "block_index",
+		"hooks" : {
+			"expressCreateServer" : "ep_block_index/index:blockIndexRoute"
+		},
+		"client_hooks" : {				
+		}
+	}]
+}
+

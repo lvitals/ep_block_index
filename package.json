@@ -1,0 +1,15 @@
+{
+  "name": "ep_block_index",
+  "version": "0.0.1",
+  "description": "Block index",
+  "keywords": ["block", "index"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Leandro Vital",
+  "license": "ISC"
+}
